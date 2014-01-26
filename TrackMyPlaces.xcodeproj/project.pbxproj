@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF9B24931878FAC2009C7635 /* SSJPlaceDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AF9B24921878FAC2009C7635 /* SSJPlaceDetailsViewController.m */; };
+		AF9B2495187D0754009C7635 /* oak-wood.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF9B2494187D0754009C7635 /* oak-wood.jpg */; };
+		AF9B2498187F691C009C7635 /* SSJLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AF9B2497187F691C009C7635 /* SSJLoginViewController.m */; };
+		AF9B249A187F9E38009C7635 /* login.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF9B2499187F9E37009C7635 /* login.jpg */; };
 		AFF70C481874EC0E001B42FF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF70C471874EC0E001B42FF /* Foundation.framework */; };
 		AFF70C4A1874EC0E001B42FF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF70C491874EC0E001B42FF /* CoreGraphics.framework */; };
 		AFF70C4C1874EC0E001B42FF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF70C4B1874EC0E001B42FF /* UIKit.framework */; };
@@ -19,6 +23,10 @@
 		AFF70C631874EC0E001B42FF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF70C4B1874EC0E001B42FF /* UIKit.framework */; };
 		AFF70C6B1874EC0E001B42FF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AFF70C691874EC0E001B42FF /* InfoPlist.strings */; };
 		AFF70C6D1874EC0E001B42FF /* TrackMyPlacesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF70C6C1874EC0E001B42FF /* TrackMyPlacesTests.m */; };
+		AFF70C771874EC39001B42FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFF70C761874EC39001B42FF /* Main.storyboard */; };
+		AFF70C791874EC75001B42FF /* green_stripes.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF70C781874EC75001B42FF /* green_stripes.png */; };
+		AFF70C7F1874F100001B42FF /* cooltext1359043434.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF70C7E1874F100001B42FF /* cooltext1359043434.png */; };
+		AFF70C8218750BEA001B42FF /* SSJEditTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF70C8118750BEA001B42FF /* SSJEditTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +40,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AF9B24911878FAC2009C7635 /* SSJPlaceDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSJPlaceDetailsViewController.h; sourceTree = "<group>"; };
+		AF9B24921878FAC2009C7635 /* SSJPlaceDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSJPlaceDetailsViewController.m; sourceTree = "<group>"; };
+		AF9B2494187D0754009C7635 /* oak-wood.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "oak-wood.jpg"; path = "../../../Sachin_docs/oak-wood.jpg"; sourceTree = "<group>"; };
+		AF9B2496187F691C009C7635 /* SSJLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSJLoginViewController.h; sourceTree = "<group>"; };
+		AF9B2497187F691C009C7635 /* SSJLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSJLoginViewController.m; sourceTree = "<group>"; };
+		AF9B2499187F9E37009C7635 /* login.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = login.jpg; path = ../../../Sachin_docs/login.jpg; sourceTree = "<group>"; };
 		AFF70C441874EC0E001B42FF /* TrackMyPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrackMyPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFF70C471874EC0E001B42FF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		AFF70C491874EC0E001B42FF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -48,6 +62,11 @@
 		AFF70C681874EC0E001B42FF /* TrackMyPlacesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TrackMyPlacesTests-Info.plist"; sourceTree = "<group>"; };
 		AFF70C6A1874EC0E001B42FF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		AFF70C6C1874EC0E001B42FF /* TrackMyPlacesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TrackMyPlacesTests.m; sourceTree = "<group>"; };
+		AFF70C761874EC39001B42FF /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../Main.storyboard; sourceTree = "<group>"; };
+		AFF70C781874EC75001B42FF /* green_stripes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = green_stripes.png; path = ../../../Sachin_docs/green_stripes.png; sourceTree = "<group>"; };
+		AFF70C7E1874F100001B42FF /* cooltext1359043434.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cooltext1359043434.png; path = ../../../cooltext1359043434.png; sourceTree = "<group>"; };
+		AFF70C8018750BEA001B42FF /* SSJEditTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSJEditTableViewController.h; sourceTree = "<group>"; };
+		AFF70C8118750BEA001B42FF /* SSJEditTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSJEditTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,9 +126,19 @@
 		AFF70C4D1874EC0E001B42FF /* TrackMyPlaces */ = {
 			isa = PBXGroup;
 			children = (
+				AFF70C761874EC39001B42FF /* Main.storyboard */,
+				AF9B2496187F691C009C7635 /* SSJLoginViewController.h */,
+				AF9B2497187F691C009C7635 /* SSJLoginViewController.m */,
+				AF9B24911878FAC2009C7635 /* SSJPlaceDetailsViewController.h */,
+				AF9B24921878FAC2009C7635 /* SSJPlaceDetailsViewController.m */,
 				AFF70C561874EC0E001B42FF /* SSJAppDelegate.h */,
 				AFF70C571874EC0E001B42FF /* SSJAppDelegate.m */,
+				AFF70C8018750BEA001B42FF /* SSJEditTableViewController.h */,
+				AFF70C8118750BEA001B42FF /* SSJEditTableViewController.m */,
 				AFF70C591874EC0E001B42FF /* Images.xcassets */,
+				AF9B2494187D0754009C7635 /* oak-wood.jpg */,
+				AFF70C7E1874F100001B42FF /* cooltext1359043434.png */,
+				AFF70C781874EC75001B42FF /* green_stripes.png */,
 				AFF70C4E1874EC0E001B42FF /* Supporting Files */,
 			);
 			path = TrackMyPlaces;
@@ -119,6 +148,7 @@
 			isa = PBXGroup;
 			children = (
 				AFF70C4F1874EC0E001B42FF /* TrackMyPlaces-Info.plist */,
+				AF9B2499187F9E37009C7635 /* login.jpg */,
 				AFF70C501874EC0E001B42FF /* InfoPlist.strings */,
 				AFF70C531874EC0E001B42FF /* main.m */,
 				AFF70C551874EC0E001B42FF /* TrackMyPlaces-Prefix.pch */,
@@ -220,8 +250,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFF70C771874EC39001B42FF /* Main.storyboard in Resources */,
 				AFF70C521874EC0E001B42FF /* InfoPlist.strings in Resources */,
+				AFF70C791874EC75001B42FF /* green_stripes.png in Resources */,
 				AFF70C5A1874EC0E001B42FF /* Images.xcassets in Resources */,
+				AF9B2495187D0754009C7635 /* oak-wood.jpg in Resources */,
+				AFF70C7F1874F100001B42FF /* cooltext1359043434.png in Resources */,
+				AF9B249A187F9E38009C7635 /* login.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,8 +275,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF9B2498187F691C009C7635 /* SSJLoginViewController.m in Sources */,
+				AF9B24931878FAC2009C7635 /* SSJPlaceDetailsViewController.m in Sources */,
 				AFF70C541874EC0E001B42FF /* main.m in Sources */,
 				AFF70C581874EC0E001B42FF /* SSJAppDelegate.m in Sources */,
+				AFF70C8218750BEA001B42FF /* SSJEditTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,7 +338,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -339,7 +377,8 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_ENTITLEMENTS[sdk=*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -360,6 +399,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TrackMyPlaces/TrackMyPlaces-Prefix.pch";
 				INFOPLIST_FILE = "TrackMyPlaces/TrackMyPlaces-Info.plist";
@@ -373,6 +413,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TrackMyPlaces/TrackMyPlaces-Prefix.pch";
 				INFOPLIST_FILE = "TrackMyPlaces/TrackMyPlaces-Info.plist";
@@ -442,6 +483,7 @@
 				AFF70C721874EC0E001B42FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AFF70C731874EC0E001B42FF /* Build configuration list for PBXNativeTarget "TrackMyPlacesTests" */ = {
 			isa = XCConfigurationList;
@@ -450,6 +492,7 @@
 				AFF70C751874EC0E001B42FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
